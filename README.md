@@ -15,14 +15,28 @@ Engineer from **Baku, Azerbaijan** working in programming, cybersecurity and AI.
 | [GraphGuard IoT](https://github.com/ziko-asm/gnn-nids-robustt) | How GNN intrusion detectors for IoT botnets hold up under attack. · [site](https://graphguard-iot.vercel.app) |
 | [AI-NIDS Robustness Lab](https://github.com/ziko-asm/ai-nids-adversarial-benchmark) | How easily neural network intrusion detectors are fooled by shaped traffic. · [site](https://ai-nids-robustness.streamlit.app) |
 
-**Tools and websites**
+**Services and tools**
 
 | Project | In one line |
 |---|---|
+| [Agent Audit](https://agent-audit-ten.vercel.app/) | Security audits for companies' AI chatbots and agents: real attacks, evidence and concrete fixes. |
 | [SaytYoxla](https://github.com/ziko-asm/saytyoxla) | Free 30-second security, speed and SEO check for websites in Azerbaijan. · [site](https://saytyoxla.vercel.app) |
-| [ayfar](https://github.com/ziko-asm/ayfar) | My portfolio: static, bilingual AZ/EN site that scores 100/100 on SaytYoxla. · [site](https://ayfar.vercel.app) |
-| Business websites | Online shops and company sites in Baku: MANSIA, bathshop.az, a lathe workshop. |
+
+**Business websites**
+
+| Project | In one line |
+|---|---|
+| [MANSIA](https://mansia.az/) | Online shop for a brand of natural handmade saffron soaps, with WhatsApp ordering. |
+| [bathshop.az](https://bathshop-az-selling-site.vercel.app/) | Online store for bathroom and heating equipment in Baku, with cart and ordering, in AZ/EN/RU. |
+| [Lathe workshop](https://mexaniki-emal.vercel.app/) | Site for a vertical lathe workshop in Baku, with a rotatable 3D part and WhatsApp ordering. |
+
+**Game**
+
+| Project | In one line |
+|---|---|
 | [Metro Tycoon](https://siloveu.itch.io/metro-tycoon) | Train-driving tycoon game on the Baku metro, playable in the browser. |
+
+All ten projects, with screenshots and details, are on **[ayfar.vercel.app](https://ayfar.vercel.app)** ([source](https://github.com/ziko-asm/ayfar)).
 
 ## Tools I use
 
