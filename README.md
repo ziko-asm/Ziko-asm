@@ -51,4 +51,4 @@ Python · JavaScript · PyTorch · FastAPI · HTML/CSS/Canvas · C++ · Assembly
 
 Need a website, or want your current one checked? Write to me.
 
-[Website](https://ayfar.dev) · [WhatsApp](https://wa.me/994772172358) · [LinkedIn](https://www.linkedin.com/in/ziya-azizov-91bba638a) · [Instagram](https://www.instagram.com/ayfar.web/) · [X](https://x.com/ayfar_web) · ziyaazizov9@gmail.com
+[Website](https://ayfar.dev) · [WhatsApp](https://wa.me/994772172358) · [LinkedIn](https://www.linkedin.com/in/ziyaazizov) · [Instagram](https://www.instagram.com/ayfar.web/) · [X](https://x.com/ayfar_web) · ziyaazizov9@gmail.com
