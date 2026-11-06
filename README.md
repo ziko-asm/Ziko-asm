@@ -2,7 +2,7 @@
 
 Engineer from **Baku, Azerbaijan** working in programming, cybersecurity and AI. I build fast, secure websites for businesses and research how AI systems get attacked.
 
-🌐 **Portfolio and web studio: [ayfar.vercel.app](https://ayfar.vercel.app)**
+🌐 **Portfolio and web studio: [ayfar.dev](https://ayfar.dev)**
 
 ## What I build
 
@@ -36,7 +36,7 @@ Engineer from **Baku, Azerbaijan** working in programming, cybersecurity and AI.
 |---|---|
 | [Metro Tycoon](https://siloveu.itch.io/metro-tycoon) | Train-driving tycoon game on the Baku metro, playable in the browser. |
 
-All ten projects, with screenshots and details, are on **[ayfar.vercel.app](https://ayfar.vercel.app)** ([source](https://github.com/ziko-asm/ayfar)).
+All ten projects, with screenshots and details, are on **[ayfar.dev](https://ayfar.dev)** ([source](https://github.com/ziko-asm/ayfar)).
 
 ## Tools I use
 
@@ -51,4 +51,4 @@ Python · JavaScript · PyTorch · FastAPI · HTML/CSS/Canvas · C++ · Assembly
 
 Need a website, or want your current one checked? Write to me.
 
-[Website](https://ayfar.vercel.app) · [WhatsApp](https://wa.me/994772172358) · [LinkedIn](https://www.linkedin.com/in/ziya-azizov-91bba638a) · [Instagram](https://www.instagram.com/ayfar.web/) · [X](https://x.com/ayfar_web) · ziyaazizov9@gmail.com
+[Website](https://ayfar.dev) · [WhatsApp](https://wa.me/994772172358) · [LinkedIn](https://www.linkedin.com/in/ziya-azizov-91bba638a) · [Instagram](https://www.instagram.com/ayfar.web/) · [X](https://x.com/ayfar_web) · ziyaazizov9@gmail.com
